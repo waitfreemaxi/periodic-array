@@ -1,0 +1,13 @@
+[package]
+name = "periodic-array"
+version = "0.1.0"
+edition = "2021"
+authors = ["waitfreemaxi <waitfree@proton.me>"]
+license = "MIT OR Apache-2.0"
+description = "A thin array wrapper for periodic arrays that avoids bounds checks"
+
+
+[features]
+copy = []
+
+[dependencies]
